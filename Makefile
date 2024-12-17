@@ -1,5 +1,5 @@
 PROJECT = otpless_orchestrator
-PROJECT_DESCRIPTION = New project
+PROJECT_DESCRIPTION = The supervisor behavior for OTPless Erlang.
 PROJECT_VERSION = 0.1.0
 
 DEPS = spawn_mode
